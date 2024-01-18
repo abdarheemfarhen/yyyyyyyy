@@ -1,7 +1,4 @@
 this as a
-<<<<<<< HEAD
 tgis as git
-=======
-
 this as main2 git
->>>>>>> main
+this is mohmed 
