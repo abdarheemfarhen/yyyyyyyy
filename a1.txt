@@ -13,3 +13,7 @@ for (int i=0;i>=0;i++)
  this is abd1
 
 nnnnnnnn1
+<<<<<<< HEAD
+=======
+bnnnnnnn1
+>>>>>>> adb1
