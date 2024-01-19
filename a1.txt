@@ -4,7 +4,7 @@ this as main2 git
 
 this is abd2
 
-for (int i=0;i>0;i++)
+for (int i=0;i>=0;i++)
   {
      print (i)
   }
